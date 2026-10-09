@@ -1,0 +1,11 @@
+export const links = {github:'https://github.com/bean-123',linkedin:'https://www.linkedin.com/in/plattamy/',email:'mailto:amy.platt@hotmail.com'};
+export const projects = [
+{type:'INTERNSHIP · FULL-STACK PLATFORM',title:'Ellarion Tales',problem:'An event organiser needed one place for event discovery, registrations and administration.',built:'Built user authentication, a multi-step event registration flow, an admin CMS and Stripe test-mode payment integration.',role:'Full-stack developer · software development internship',stack:['React','TypeScript','Supabase','PostgreSQL','Stripe','Tailwind'],outcome:'Deployed a working event-management website with user and admin workflows.',url:'https://ellarion-tales-website.vercel.app/',action:'Visit live website',visual:'ellarion'},
+{type:'FULL-STACK APPLICATION',title:'StockFlow',problem:'Inventory and orders need clear, consistent workflows across a database and API.',built:'Developed product and order functionality using a PHP Slim REST API with Supabase-backed authentication.',role:'Software development project',stack:['PHP','Slim','Supabase','REST API','SQL'],outcome:'Practised full-stack data flows, API design and authentication.',url:'https://github.com/bean-123',action:'Browse GitHub',visual:'stockflow'},
+{type:'SYSTEMS · CYBERSECURITY',title:'Linux & Security Labs',problem:'Secure systems depend on correct access controls, services and network configuration.',built:'Practised Linux permissions, sudo policies, SSH hardening, services, TCP/IP troubleshooting and network scanning in lab environments.',role:'Hands-on coursework and independent security practice',stack:['Red Hat','Linux','SSH','Nmap','Burp Suite','TCP/IP'],outcome:'Completed Red Hat Academy RH124 attendance training and continued security labs.',url:null,action:null,visual:'linux'}
+];
+export const skillGroups=[
+{title:'Security & systems',items:['Linux / Red Hat','Kali Linux','SSH & access control','TCP/IP','Nmap','Burp Suite']},
+{title:'Development',items:['React','TypeScript','JavaScript','Python','PHP','SQL','REST APIs']},
+{title:'Tools & delivery',items:['Git / GitHub','Docker','AWS fundamentals','CI/CD concepts','Vercel','Supabase','Figma / UI design']}
+];
