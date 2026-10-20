@@ -290,8 +290,13 @@ function App() {
                 <h3>Software Engineering</h3>
                 <p>Metropolia University of Applied Sciences</p>
                 <small>
-                  Online bachelor's degree studies · C++, Unix/Linux and
-                  information security coursework.
+                  Currently pursuing a Bachelor's degree in Software Engineering
+                  through online studies, expanding my knowledge of software
+                  development, system administration, and information security.
+                  Completed coursework in Information Security, with ongoing
+                  studies in C++, Unix/Linux, and system administration. The
+                  curriculum also includes Microsoft Azure, DevOps, software
+                  quality assurance, databases, and modern web development.
                 </small>
               </article>
               <article className="credential reveal">
@@ -300,8 +305,14 @@ function App() {
                 <h3>Software Development</h3>
                 <p>Business College Helsinki</p>
                 <small>
-                  Vocational software development qualification covering
-                  applications, programming and databases.
+                  Completed a vocational qualification in Software Development,
+                  gaining hands-on experience in designing, building, testing,
+                  and maintaining web applications. Developed practical skills
+                  in JavaScript, Python, PHP, SQL, React, and database
+                  management, with a focus on full-stack development, REST APIs,
+                  and responsive user interfaces. Worked on real-world
+                  development projects, applying problem-solving, version
+                  control (Git), and modern software development practices.
                 </small>
               </article>
               <article className="credential certificate reveal">
@@ -309,11 +320,16 @@ function App() {
                 <span className="credential-label">
                   RED HAT ACADEMY · OCT 6, 2026
                 </span>
-                <h3>Red Hat System Administration I</h3>
+                <h3>
+                  Red Hat System Administration I & II (RH124, RH134) and Linux
+                  Automation with Ansible (RH294).
+                </h3>
                 <p>RH124 · RHEL 9.3 · 40 credit hours</p>
                 <small>
                   Course attendance covering Linux command-line administration,
-                  users, permissions, SSH, services and networking.
+                  users, permissions, SSH, services and networking. Currently
+                  studying Red Hat Linux System Administration II (RH134) and
+                  Infrastructure Automation with Ansible (RH294).
                 </small>
                 <div className="certificate-actions">
                   <span>Certificate of Attendance</span>
@@ -337,8 +353,8 @@ function App() {
                 Let's connect<span className="accent">.</span>
               </h2>
               <p>
-                Based in Helsinki · Open to junior developer and entry-level
-                cybersecurity opportunities.
+                Based in Helsinki · Open to junior software development and
+                entry-level cybersecurity opportunities internationally.
               </p>
             </div>
             <div className="contact-links reveal">
